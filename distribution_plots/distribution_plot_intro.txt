@@ -1,0 +1,12 @@
+Distribution plot helps to know about the distribution of data over varying value of x. 
+
+Generally it is used for univariate analysis.
+
+Range of observation is depicted by it.
+
+It helps to find the central tendency i.e. where the mean, median lies. 
+
+It answers the question, is the data bimodel?
+
+It also answers, are there any outliers? 
+
