@@ -1,0 +1,20 @@
+When the mathematical relation of one quantity with the other quantity is find out, then it is said to be regression.
+
+For example: in a survey, we collect data where 5 student say they study for x hours and get y marks like: 
+
+    Hours of stdy |   marks
+        4         |    45
+        3         |    33
+        1         |    22
+        8         |    13
+        10        |    45
+
+
+Now here based on these data, Hours of study vs Marks plot will be plotted. 
+
+Since these is not predictable pattern depending on which a mathematical relation is made, like non deterministic(Random) waveform, Linear regression mitigates this problem and derive a mathematical relation and plot a graph of straight line of form :
+                        y = mx+c 
+                    where m = slope of the line 
+                          c = y intercept(the point at which a line or curve intersects the y-axis on a graph)
+            
+            for eg: marks = (slope*hours) + constant 
